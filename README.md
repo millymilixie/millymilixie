@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Abi
 
-### Software Developer • Full Stack Developer • Software Technologist
+### Software Developer • Software Technologist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=22C55E&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;Building+Modern+Web+Applications;Creating+Digital+Solutions;Always+Learning+New+Technologies" />
 

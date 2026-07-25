@@ -20,7 +20,7 @@
 
 <img align="right" width="320" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
 
-I'm **Jethzibel Abigail Rodriguez Reinoso**, a passionate **Software Developer** focused on creating modern, scalable and user-friendly web applications.
+I'm **Abigail Rodriguez**, a passionate **Software Developer** focused on creating modern, scalable and user-friendly web applications.
 
 I enjoy transforming ideas into real digital solutions by combining clean code, intuitive interfaces and efficient backend architectures.
 

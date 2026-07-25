@@ -256,7 +256,7 @@ Modern interfaces focused on usability and clean aesthetics.
 
 <td width="50%">
 
-## 🏥 Carolina Plus
+## 🏥 Caroline Plus
 
 <img src="https://img.shields.io/badge/Status-In%20Development-22C55E?style=for-the-badge"/>
 
@@ -498,7 +498,7 @@ Continuous Improvement
 | Language | Level |
 |----------|---------|
 | Spanish 🇨🇴 | Native |
-| English 🇺🇸 | Intermediate |
+| English (basic) | Intermediate |
 
 ---
 

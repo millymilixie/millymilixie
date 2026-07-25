@@ -150,8 +150,8 @@ My goal is not only to build software that works, but software that delivers an 
 | Frontend | Backend | Database | Design |
 |----------|----------|----------|----------|
 | HTML5 | Node.js | Firebase | Figma |
-| CSS3 | Express | MySQL | Photoshop |
-| JavaScript | PHP | MongoDB | Canva |
+| CSS3 | MySQL | Photoshop |
+| JavaScript  | Canva |
 | Bootstrap | REST APIs | Firestore | UI Design |
 | React | Authentication | SQL | UX |
 
